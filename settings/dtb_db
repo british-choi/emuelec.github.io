@@ -1,0 +1,70 @@
+Device              RAM/STORAGE          CPU          DTB
+
+3GO APLAY 4         2G/16G               S905X        gxl_p212_2g
+A95X A1             1G/8G                S905X        gxl_p212_1g
+A95X-B7N            2G/8G                S905X        gxl_p212_2g
+A95X-R2             1G/8G                S905W        gxl_p281_1g_a95xr2
+A95X-R2             2G/16G               S905W        gxl_p281_2g_a95xr2
+Abox A1 Max         1G/8G                S905W        gxl_p281_1g_a95xr2
+Abox A1 Max         2G/16G               S905W        gxl_p281_2g_a95xr2
+Akaso HM8           1G/8G                S905X        gxl_p212_1g
+Beelink GT1 Ult.    3G/32G               S912         gxm_q200_3g
+Beelink GT1 Ult.    3G/32G(fake RAM)     S912         gxm_q200_2g
+Beelink Mini MX     2G/16G               S905         gxbb_p200_2G_1Gbit
+Beelink Mini MXIII  2G/16G               S905         gxbb_p200_2G_1Gbit_RealtekWiFi / gxbb_p200_2G_1Gbit
+Beelink Mini MXIII II 2G/16G             S905X        gxl_p212_2g    
+Bqeel M9C Max       2G/16G               S905X        gxl_p212_2g
+Bqeel M9C Pro       1G/8G                S905X        gxl_p212_1g
+Docooler M9S Pro    2G/16G(fake RAM)     S905X        gxl_p212_1g_slowemmc
+Edal T95Z Plus      2G/16G               S912         gxm_q200_2g
+H96 Pro             2G/16G               S912         gxm_q200_2g
+H96 Pro             3G/16G               S912         gxm_q200_3g
+H96 Pro+            2G/16G               S912         gxm_q201_2g_1gbit
+H96 Pro+            3G/16G               S912         gxm_q201_3g_1gbit
+KIII                2G/16G               S905         gxbb_p200_2G_1Gbit
+Magicsee N4         1G/8G                S905X        gxl_p212_1g
+Magicsee N5         2G/16G               S905X        gxl_p212_2g
+Mecool BB2 Pro      3G/16G               S912         gxm_q201_3g_1Gbit
+Mecool HM8          1G/8G                S905X        gxl_p212_1g
+Mecool KI Pro       2G/16G               S905D        gxl_p230_k1_pro
+Mecool KII Pro      2G/16G               S905         gxbb_p200_2G_1Gbit
+Mecool KIII Pro     3G/16G               S912         gxm_q200_k3_pro
+Mecool KM8          2G/16G               S905X        gxl_p212_2g
+Mecool KM8 P        1G/8G                S912         gxm_q201_1g
+Mecool KM8 Pro      2G/16G               S912         gxm_q201_2g_1Gbit
+Mecool M8S Plus     2G/8G                S905         gxbb_p200_2G_1Gbit
+Mecool M8S Pro+     2G/16G               S905X        gxl_p212_2g
+Mecool M8S Pro L    3G/32G               S912         gxm_q201_3g
+Mini M8S 1Gbit      2G/16G               S905         gxbb_p200_2G_1Gbit
+Mini M8S            2G/16G               S905         gxbb_p200_2G
+Mini M8S II         1G/16G               S905X        gxl_p212_1g
+Mini M8S II         2G/16G               S905X        gxl_p212_2g
+Minix NEO U1        2G/16G               S905         gxbb_p200_2G_minix_neo_u1
+Minix NEO U9-H      2G/16G               S912         gxm_q200_2g_minix_neo_u9
+MXQ Pro 4K (old)    2G/8G                S905         gxbb_p201_2G
+MXQ Pro 4K (new)    1G/8G                S905X        gxl_p212_1g
+Nexbox A1           2G/16G               S912         gxm_q200_2g
+SAMMIX R95          2G/16G(fake RAM)     S905X        gxl_p212_1g_slowemmc
+Sunvell T95M        2G/8G                S905X        gxl_p212_2g
+Sunvell T95N        2G/8G                S905X        gxl_p212_2g
+Sunvell T95X        1G/8G                S905X        gxl_p212_1g
+Sunvell T95Z Max    2G/16G               S912         gxm_q201_2g_1Gbit
+Tanix TX3 Mini      1G/8G                S905W        gxl_p281_1g
+Tanix TX3 Mini      2G/16G               S905W        gxl_p281_2g  
+Tanix TX3 Pro       1G/8G                S905X        gxl_p212_1g
+Tanix TX3 Pro       2G/16G               S905X        gxl_p212_2g
+Tanix TX92          3G/32G               S912         gxm_q200_3g
+THL Box 1 Pro       2G/16G               S905X        gxl_p212_2g
+Tronsmart Vega S95  2G/8G                S905         gxbb_p200_2G_1Gbit
+Vontar TX92         3G/32G               S912         gxm_q200_3g
+Vorke Z1            3G/32G               S912         gxm_q200_3g
+Vorke Z6            3G/32G               S912         gxm_q200_3g
+Vorke Z6 Plus       3G/32G               S912         gxm_q201_3g_1gbit
+WeTek Play 2        2G/8G                S905         gxbb_p200_2G_wetek_play_2
+X92                 3G/32G               S912         gxm_q200_3g / gxm_q201_3g_1gbit
+X96                 1G/8G                S905X        gxl_p212_1g
+X96                 2G/16G               S905X        gxl_p212_2g
+X96                 2G/16G               S905W        gxl_p281_2g
+X96 Mini            2G/16G               S905W        gxl_p281_2g
+Xtreamer Whizz      2G/16G               S905H        gxbb_p200_2G_1Gbit
+Z69                 3G/32G               S905X        gxl_p212_3g
