@@ -1,4 +1,5 @@
 3do https://github.com/thebezelproject/bezelproject-3DO
+amiga https://github.com/thebezelproject/bezelprojectSA-Amiga
 arcade https://github.com/thebezelproject/bezelproject-MAME
 atari2600 https://github.com/thebezelproject/bezelproject-Atari2600
 atari5200 https://github.com/thebezelproject/bezelproject-Atari5200
@@ -8,6 +9,7 @@ atarilynx https://github.com/thebezelproject/bezelproject-AtariLynx
 atomiswave https://github.com/thebezelproject/bezelproject-Atomiswave
 c64 https://github.com/thebezelproject/bezelprojectSA-Commodore64
 capcom https://github.com/thebezelproject/bezelproject-MAME
+cd32 https://github.com/thebezelproject/bezelproject-CD32
 coleco https://github.com/thebezelproject/bezelproject-ColecoVision
 cps1 https://github.com/thebezelproject/bezelproject-MAME
 cps2 https://github.com/thebezelproject/bezelproject-MAME
@@ -44,8 +46,9 @@ sega32x https://github.com/thebezelproject/bezelproject-Sega32X
 segacd https://github.com/thebezelproject/bezelproject-SegaCD
 sfc https://github.com/thebezelproject/bezelproject-SFC
 sg1000 https://github.com/thebezelproject/bezelproject-SG-1000
-snes https://github.com/thebezelproject/bezelproject-SNES
 sgfx https://github.com/thebezelproject/bezelproject-SuperGrafx
+snes https://github.com/thebezelproject/bezelproject-SNES
+supervision https://github.com/thebezelproject/bezelproject-Supervision
 tg16 https://github.com/thebezelproject/bezelproject-TG16
 tg16cd https://github.com/thebezelproject/bezelproject-TG-CD
 vectrex https://github.com/thebezelproject/bezelproject-GCEVectrex
@@ -53,4 +56,5 @@ videopac https://github.com/thebezelproject/bezelproject-Videopac
 virtualboy https://github.com/thebezelproject/bezelproject-Virtualboy
 wonderswan https://github.com/thebezelproject/bezelproject-WonderSwan
 wonderswancolor https://github.com/thebezelproject/bezelproject-WonderSwanColor
+zxspectrum https://github.com/thebezelproject/bezelprojectSA-ZXSpectrum
 # This line will be ignored, but its needed
